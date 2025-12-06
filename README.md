@@ -27,8 +27,6 @@ Tutorial Videos to Replicate DeepFace Mouse using your data:
 ## HPC Code
 Attached here is the SLEAP based command lines that was used to do high performance computing analysis at Cleveland Clinic Lerner Research Institute using its avaliable GPU Type (A100) and Node Number (n = 2). 
 
-dssf[DeepFace_Mouse_HPC_Script.txt](https://github.com/user-attachments/files/23484367/DeepFace_Mouse_HPC_Script.txt)
-
 [DeepFace_Mouse_HPC_Script.txt](https://github.com/user-attachments/files/24003486/DeepFace_Mouse_HPC_Script.txt)
 
 

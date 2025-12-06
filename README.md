@@ -1,5 +1,5 @@
 # DeepFace-Mouse
-Directory to two software tools used in "DeepFace: A High-Precision and Scalable Deep Learning Pipeline for Predicting Large-Scale Brain Activity from Facial Dynamics in Mice".
+Directory to two software tools used in ["DeepFace: A High-Precision and Scalable Deep Learning Pipeline for Predicting Large-Scale Brain Activity from Facial Dynamics in Mice"](https://pubmed.ncbi.nlm.nih.gov/40661434/).
 
 <img width="1524" height="690" alt="image" src="https://github.com/user-attachments/assets/e5b59b96-dda3-415c-a42c-68f27daa6ae4" />
 

@@ -1,7 +1,7 @@
 # DeepFaceMouse
 Directory to two software tools used in ["DeepFace: A High-Precision and Scalable Deep Learning Pipeline for Predicting Large-Scale Brain Activity from Facial Dynamics in Mice"](https://pubmed.ncbi.nlm.nih.gov/40661434/).
 
-<img width="9600" height="4182" alt="Figure 5_ DeepFace Mouse Flow Chart" src="https://github.com/user-attachments/assets/0697489a-57dd-48f5-b0c3-bbb1a6751192" />
+<img width="1804" height="784" alt="image" src="https://github.com/user-attachments/assets/03cb4b01-2f87-4caf-9a33-62aa60626b6f" />
 
 
 ## [`mediaGUI`](https://github.com/khicken/mediaGUI)
